@@ -11,23 +11,23 @@ module.exports = {
 		linkedin: 'https://www.linkedin.com/in/abdallah-awwad/',
 		instagram: 'https://instagram.com/awad6825',
 	},
-	googleAnalyticsID: 'UA-88875900-4',
+	googleAnalyticsID: 'UA-147339474-1',
 	themeColor: '#6b63ff',
 	backgroundColor: '#6b63ff',
 	social: {
-		facebook: 'appId',
-		twitter: '@smakosh',
+		facebook: 'badr19',
+		twitter: '@DreadfulBadr',
 	},
 	address: {
-		city: 'City',
-		region: 'Region',
-		country: 'Country',
+		city: 'Cairo',
+		region: 'ElKanater',
+		country: 'Egypt',
 		zipCode: 'ZipCode',
 	},
 	contact: {
-		email: 'email',
-		phone: 'phone number',
+		email: 'ar.awwad6@gmail.com',
+		phone: '00201204482481',
 	},
-	foundingDate: '2018',
+	foundingDate: '2019',
 	recaptcha_key: '6LdOUbcUAAAAAAX6eH6PkjGjPSfIXw9oqa9ZRpD5'
 }
